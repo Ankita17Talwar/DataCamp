@@ -1,1 +1,1 @@
-vcs -> create Git Repo
+print(vcs -> create Git Repo)
